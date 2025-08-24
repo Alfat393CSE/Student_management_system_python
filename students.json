@@ -1,0 +1,20 @@
+[
+    {
+        "Roll": "1",
+        "Name": "Israt ",
+        "Age": "25",
+        "Course": "SPL"
+    },
+    {
+        "Roll": "2",
+        "Name": "Naimul",
+        "Age": "25",
+        "Course": "SPL"
+    },
+    {
+        "Roll": "3",
+        "Name": "Jhumu",
+        "Age": "25",
+        "Course": "SPL"
+    }
+]
